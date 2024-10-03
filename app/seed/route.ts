@@ -101,6 +101,7 @@ async function seedRevenue() {
   return insertedRevenue;
 }
 
+
 export async function GET() {
   
   try {
